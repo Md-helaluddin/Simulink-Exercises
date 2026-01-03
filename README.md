@@ -40,10 +40,6 @@ This repository features three specialized **control system projects** developed
 ### System Modeling
 - Developed a **linearized longitudinal flight dynamics model** to represent aircraft pitch behavior.
 
-### Controller Design
-- Implemented **PID** and **state-space controllers** to meet defined performance criteria:
-  - Overshoot < 10%
-  - Settling time < 2 seconds
 
 ### Closed-Loop Analysis
 - Evaluated system performance and stability using:
